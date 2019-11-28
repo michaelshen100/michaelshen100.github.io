@@ -16,7 +16,6 @@ justify-content: center;
 .wrapper i {
 padding: 10px;
 text-shadow: 0px 6px 8px rgba(0, 0, 0, 0.6);
-transition: all ease-in-out 300ms;
 }
 .wrapper a:nth-child(1) {
 color: 	#000000;
