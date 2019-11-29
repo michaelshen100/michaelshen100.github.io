@@ -30,6 +30,9 @@ color: #1380b3;
 margin-top: -3px;
 text-shadow: 0px 14px 10px rgba(0, 0, 0, 0.4);
 }
+.notbold {
+    font-weight:normal;
+}​
 
 #test p {
     animation: fadein 3s;
